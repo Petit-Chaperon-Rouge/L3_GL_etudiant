@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS =-std=c++11 -W -Wall
+CFLAGS =-std=c++11 -W -Wall -O0 -g
 LDFLAGS=
 EXEC=tpx
 

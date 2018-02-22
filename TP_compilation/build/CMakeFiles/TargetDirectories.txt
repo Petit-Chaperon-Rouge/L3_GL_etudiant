@@ -1,0 +1,2 @@
+/etudiants/alecoeuc/Documents/GL/TP3/L3_GL_etudiant/TP_compilation/build/CMakeFiles/imshow.out.dir
+/etudiants/alecoeuc/Documents/GL/TP3/L3_GL_etudiant/TP_compilation/build/CMakeFiles/tpx.dir

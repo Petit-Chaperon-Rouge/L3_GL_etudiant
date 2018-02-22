@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++14 -Wall -Wextra -g    CMakeFiles/tpx.dir/sayHello/sayHello.cpp.o CMakeFiles/tpx.dir/sayHello/module1.cpp.o  -o tpx -rdynamic 
