@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -DNDEBUG    CMakeFiles/main_test.dir/src/main_test.cpp.o CMakeFiles/main_test.dir/src/Fibo.cpp.o CMakeFiles/main_test.dir/src/Fibo_test.cpp.o  -o main_test -rdynamic -lstdc++ -lCppUTest -lCppUTestExt 
